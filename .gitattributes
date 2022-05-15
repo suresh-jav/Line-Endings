@@ -1,0 +1,3 @@
+Mac-LineEndings.txt text eol=cr
+Windows-LineEndings.txt text eol=crlf
+Unix-LineEndings.txt text eol=lf
